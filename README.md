@@ -11,8 +11,8 @@
 
 # Уровень F: Поднять сервер для запросов по HTTP (на вышеперечисленные функции).
 # Шаги запуска:
-1. В своем venv - pip install -r requirements.txt
-2. python main.py
+1. В своем venv - `pip install -r requirements.txt`
+2. `python main.py`
 3. Будет доступен на 127.0.0.1:8000
    
 ---
